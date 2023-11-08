@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "815460410823",
+    "project_id": "mobilelato",
+    "storage_bucket": "mobilelato.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815460410823:android:978635b09a98b61bb4e5e2",
+        "android_client_info": {
+          "package_name": "com.example.latihan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAkzHUcIvZoSDTy42SZrS0Oa-VovHRiqE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
